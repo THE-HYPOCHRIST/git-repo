@@ -4,12 +4,12 @@
 
 JE SUIS UNE PINTADE. ET PEUT-ÊTRE UNE AUTRUCHE AUSSI...
 
-trève de plaisenteries...
+TRÈVE DE PLAISENTERIES...
 
-git-repo est un projet 100% libre de droit où tout le monde peut y ajouter ce qu'il veut sans problème.
+GIT-REPO EST UN PROJET 100% LIBRE DE DROIT OÙ TOUT LE MONDE PEUT Y AJOUTER CE QU'IL VEUT SANS PROBLÈME.
 
-mis à la disposition de : TOUT LE MONDE
-par : THE-HYPOCHRIST
+MIS À LA DISPOSITION DE : TOUT LE MONDE
+PAR : THE-HYPOCHRIST
 
 
-en vous remerciant. 
+EN VOUS REMERCIANT. 
